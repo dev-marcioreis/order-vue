@@ -2,7 +2,7 @@
 
 ---
 
-O objetivo deste projeto será simular pedidos em um delivery.
+Este projeto vai simular pedidos em um delivery.
 
 ## 🚀 Em desenvolvimento...
 
